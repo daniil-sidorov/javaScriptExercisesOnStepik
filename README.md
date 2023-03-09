@@ -1,1 +1,1 @@
-# javaScriptExercisesOnStepik
+# JS_exercises_stepik
